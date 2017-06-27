@@ -1,0 +1,8 @@
+
+	cout << " ------ MENU ------ " << endl;
+		 << " 4. Interpolacja Hermitea" << endl
+		 << " 10. Aproksymacja sredniokwadratowa" << endl
+		 << " 16. Metoda LU" << endl
+		 << " 18. Metoda Gaussa - Seidela" << endl
+		 << " Inne. Zakoncz program" << endl;
+		cout << endl;

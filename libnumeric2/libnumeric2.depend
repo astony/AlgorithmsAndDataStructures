@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1465166053 source:d:\dokumenty\c++\libnumeric2\main.cpp
+	<iostream>
+	"aproksymacja/aproksymacja.hpp"
+	"calkowanie/calkowanie.hpp"
+	"interpolacja/interpolacja.hpp"
+	"miejsca_zerowe/miejsca_zerowe.hpp"
+	"uklady_rownan_liniowych/uklady_rownan_liniowych.hpp"
+	"rownania_rozniczkowe/rownania_rozniczkowe.hpp"
+
+1465166722 d:\dokumenty\c++\libnumeric2\aproksymacja\aproksymacja.hpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+
+1465166981 d:\dokumenty\c++\libnumeric2\calkowanie\calkowanie.hpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1465166743 d:\dokumenty\c++\libnumeric2\interpolacja\interpolacja.hpp
+	<sstream>
+
+1465166664 d:\dokumenty\c++\libnumeric2\miejsca_zerowe\miejsca_zerowe.hpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1465168631 d:\dokumenty\c++\libnumeric2\uklady_rownan_liniowych\uklady_rownan_liniowych.hpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1465166792 d:\dokumenty\c++\libnumeric2\rownania_rozniczkowe\rownania_rozniczkowe.hpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+

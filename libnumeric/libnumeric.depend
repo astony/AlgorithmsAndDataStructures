@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1465163418 source:d:\dokumenty\c++\libnumeric\calkowanie\calkowanie.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1465164263 source:d:\dokumenty\c++\libnumeric\main.cpp
+	<iostream>
+	"miejsca_zerowe/miejsca_zerowe.cpp"
+	"calkowanie/calkowanie.cpp"
+	"interpolacja/interpolacja.cpp"
+	"rownania_rozniczkowe/rownania_rozniczkowe.cpp"
+	"uklady_rownan_liniowych/uklady_rownan_liniowych.cpp"
+
+1465162136 d:\dokumenty\c++\libnumeric\miejsca_zerowe\miejsca_zerowe.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1465164224 d:\dokumenty\c++\libnumeric\aproksymacja\aproksymacja.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+
+1465163418 d:\dokumenty\c++\libnumeric\calkowanie\calkowanie.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1465164205 d:\dokumenty\c++\libnumeric\interpolacja\interpolacja.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+
+1465163112 d:\dokumenty\c++\libnumeric\rownania_rozniczkowe\rownania_rozniczkowe.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
+1465163139 d:\dokumenty\c++\libnumeric\uklady_rownan_liniowych\uklady_rownan_liniowych.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1465162136 source:d:\dokumenty\c++\libnumeric\miejsca_zerowe\miejsca_zerowe.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1465163112 source:d:\dokumenty\c++\libnumeric\rownania_rozniczkowe\rownania_rozniczkowe.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
+1465163139 source:d:\dokumenty\c++\libnumeric\uklady_rownan_liniowych\uklady_rownan_liniowych.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
